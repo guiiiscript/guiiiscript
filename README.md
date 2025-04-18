@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Meu nome Guilherme sou novo nesse mundo quero muito aprender e melhorar minhas skills estou abertos a criticas e conselhosestou aprendendo java no linux e procuro gente que ta aprendendo no mesmo sistema que eu 
+
+
 
 <!--
 **guiiiscript/guiiiscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
